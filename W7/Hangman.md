@@ -5,6 +5,8 @@ import java.util.*;
 
 public class Hangman {
 ```
+
+# Domains
 Cars
 1. Toyota
 2. Ford
@@ -52,3 +54,8 @@ Countries:
 8. Sweden
 9. Greece
 10. Thailand
+
+# Difficulty Options:
+Beginner (12 attempts)
+Advanced (6 attempts)
+
