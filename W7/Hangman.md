@@ -61,12 +61,14 @@ Countries:
 
 ```java
 public static void printHangman () {
-  System.out.println("   0   ");
-        System.out.println("   |   ");
-        System.out.println("  /|\\  ");
-        System.out.println(" / | \\ ");
-        System.out.println("  /\\   ");
-        System.out.println(" /  \\  ");
-}
+        System.out.println("===|===============|");
+        System.out.println("   0               |");
+        System.out.println("   |               |");
+        System.out.println("  /|\\              |");
+        System.out.println(" / | \\             |");
+        System.out.println("  / \\              |");
+        System.out.println(" /   \\             |");
+        System.out.println("                   |");
+    }
 ```
 
