@@ -56,6 +56,17 @@ Countries:
 10. Thailand
 
 # Difficulty Options:
-Beginner (12 attempts)
-Advanced (6 attempts)
+1. Beginner (12 attempts)
+2. Advanced (6 attempts)
+
+```java
+public static void printHangman () {
+  System.out.println("   0   ");
+        System.out.println("   |   ");
+        System.out.println("  /|\\  ");
+        System.out.println(" / | \\ ");
+        System.out.println("  /\\   ");
+        System.out.println(" /  \\  ");
+}
+```
 
