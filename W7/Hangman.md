@@ -3,7 +3,7 @@
 ```Java
 import java.util.*;
 
-
+public class Hangman {
 ```
 Cars
 1. Toyota
