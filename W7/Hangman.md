@@ -1,6 +1,9 @@
 ## Week 7 / Hangman assignment
 
 ```Java
+import java.util.*;
+
+
 ```
 Cars
 1. Toyota
